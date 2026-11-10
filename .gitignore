@@ -1,3 +1,4 @@
 .venv
+git rm --cached __pycache__/main.cpython-315.pyc
 __pycache__/
 *.pyc
